@@ -1,0 +1,34 @@
+{
+	"id" : "namesoftheday",
+	"name" : "Prénoms du Jour",
+	"description" : {
+		"fr_FR": "Ce plugin permet de disposer des informations suivantes sans connexion externe nécessaire : prénoms du jour, de la veille et du lendemain",
+		"en_US": "This plugin allows you to have the following information without external connection: names of the day, names of yesterday and names of tomorrow"
+	},	
+	"licence" : "AGPL",
+	"author" : "JR Marmelade",
+	"require" : "3.3.39",
+	"category" : "organization",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "https://jeanrobertjs.github.io/namesoftheday/#language#/changelog",
+	"documentation" : "https://jeanrobertjs.github.io/namesoftheday/#language#/",
+	"link" : {
+		"forum":"https://community.jeedom.com/t/namesoftheday"
+	},
+	"language": [
+		"fr_FR",
+		"en_US"
+	],
+	"compatibility": [
+		"miniplus",
+		"smart",
+		"rpi",
+		"docker",
+		"diy",
+		"mobile",
+		"v4",
+		"atlas"
+	]
+}
