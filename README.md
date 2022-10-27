@@ -3,7 +3,7 @@ Plugin pour système domotique [Jeedom](https://jeedom.com)
 
 ## Description
 
-Ce plugin permet d'obtenir plusieurs commandes afin de récupérer les prénoms du jour, ceux du jour précédent (la veille) et ceux du lendemain.
+Ce plugin permet d'obtenir plusieurs commandes afin de récupérer les prénoms/saints du jour en France, ceux du jour précédent (la veille) et ceux du lendemain.
 Le tout en local, sans connexion à internet.
 
 ## Informations connexes
