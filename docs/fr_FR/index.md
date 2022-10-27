@@ -2,10 +2,10 @@
 
 ## Description
 
-Ce plugin permet d'obtenir plusieurs commandes afin de récupérer les prénoms/saints du jour en France, ceux du jour précédent (la veille) et ceux du lendemain.
+Ce plugin permet d'obtenir plusieurs commandes afin de récupérer les prénoms/saints du jour du calendrier en France, ceux du jour précédent (la veille) et ceux du lendemain.
 Le tout en local, sans connexion à internet.
 
-![Alt text](../images/img_rendu_namesoftheday.png "Rendu du plugin Prénoms du jour")
+![Alt text](../images/img_rendu_namesoftheday.png "Rendu graphique du plugin Prénoms du jour")
 
 ## Configuration
 
