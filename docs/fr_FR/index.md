@@ -19,4 +19,4 @@ Non, les données sont incluses en local.
 
 > Comment fonctionne le rafraichissement ?
 
-Le plugin s'actualise une fois par jour à minuit en fonction de l'heure de votre système.
+Le plugin s'actualise une fois par jour à minuit (suivant l'heure de votre système).
