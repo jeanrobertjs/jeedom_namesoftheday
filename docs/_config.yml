@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: namesoftheday
+description: Jeedom plugin to retrieve names (of saints) of the day
+show_downloads: true
