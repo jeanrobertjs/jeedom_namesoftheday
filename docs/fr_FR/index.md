@@ -23,7 +23,7 @@ Le plugin s'actualise une fois par jour à minuit (suivant l'heure de votre syst
 
 ## Contributions
 
-Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez pas à soumettre vos Pull Requests sur [GitHub](https://jeanrobertjs.github.io/namesoftheday).
+Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez pas à soumettre vos Pull Requests sur [GitHub](https://jeanrobertjs.github.io/namesoftheday) ou sur le [forum Jeedom](https://community.jeedom.com/tag/plugin-namesoftheday).
 
 ## Disclaimer
 
