@@ -86,8 +86,8 @@ Anselme,21,4
 Anthelme,26,6
 Anthony,17,1
 Antoine,5,7
-Antoine (ab.),99,99
-Antoine (de Padoue),13,6
+Antoine(ab.),99,99
+Antoine(de Padoue),13,6
 Antoinette,28,2
 Antonin,2,5
 Antony,17,1
@@ -164,8 +164,8 @@ Berengere,26,5
 Berenice,4,2
 Bernadette,18,2
 Bernard,20,8
-Bernard (de C.),20,8
-Bernard (de M.),15,6
+Bernard(de C.),20,8
+Bernard(de M.),15,6
 Bernardin,20,5
 Berthe,4,7
 Bertille,16,10
@@ -522,6 +522,7 @@ Hubert,3,11
 Hugo,1,4
 Hugues,1,4
 Huguette,1,4
+Humbert,25,3
 Hyacinthe,17,8
 Iadine,3,2
 Ida,13,4
@@ -1073,7 +1074,7 @@ Thibaud,8,7
 Thiebaud,8,7
 Thierry,1,7
 Thomas,3,7
-Thomas (d'Aquin),28,1
+Thomas(d'Aquin),28,1
 Tino,14,2
 Tino,21,5
 Timothee,99,99
