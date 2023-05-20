@@ -4,7 +4,11 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-## 09/11/2022 - v1.0
+## 20/05/2023
+Mise de la base de donnée
 
-## 27/10/2022 - beta
-Première version publique
+## 09/11/2022
+Première version publiée sur le store
+
+## 27/10/2022
+Version publique en béta
