@@ -1,4 +1,4 @@
-# Prémons du jour
+# Prénoms du jour
 
 ## Description
 
@@ -7,3 +7,7 @@ Ce plugin pour système domotique Jeedom -[https://jeedom.com](https://jeedom.co
 ## Informations connexes
 
 Pour plus d'information voir la [documentation](https://jeanrobertjs.github.io/namesoftheday/fr_FR/) du plugin.
+
+## Divers
+
+- [voir le plugin dans le market Jeedom](https://market.jeedom.com/index.php?v=d&p=market_display&id=4349)
