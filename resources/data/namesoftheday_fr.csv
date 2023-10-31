@@ -34,6 +34,7 @@ Alette,4,4
 Alex,22,4
 Alexandra,22,4
 Alexandre,22,4
+Alexandrine,2,4
 Alexane,17,2
 Alexia,9,1
 Alexis,17,2
@@ -86,8 +87,8 @@ Anselme,21,4
 Anthelme,26,6
 Anthony,17,1
 Antoine,5,7
-Antoine (ab.),99,99
-Antoine (de Padoue),13,6
+Antoine(ab.),99,99
+Antoine(de Padoue),13,6
 Antoinette,28,2
 Antonin,2,5
 Antony,17,1
@@ -164,8 +165,8 @@ Berengere,26,5
 Berenice,4,2
 Bernadette,18,2
 Bernard,20,8
-Bernard (de C.),20,8
-Bernard (de M.),15,6
+Bernard(de C.),20,8
+Bernard(de M.),15,6
 Bernardin,20,5
 Berthe,4,7
 Bertille,16,10
@@ -331,6 +332,7 @@ Ella,1,2
 Ellenita,1,2
 Elodie,22,10
 Eloi,1,12
+Eloise,11,2
 Elphege,12,3
 Elsa,17,11
 Elsy,17,11
@@ -502,6 +504,7 @@ Hedwige,16,10
 Helena,18,8
 Helene,18,8
 Heliena,18,8
+Heloise,11,2
 Helyette,20,7
 Henri,13,7
 Henriette,13,7
@@ -522,6 +525,7 @@ Hubert,3,11
 Hugo,1,4
 Hugues,1,4
 Huguette,1,4
+Humbert,25,3
 Hyacinthe,17,8
 Iadine,3,2
 Ida,13,4
@@ -565,6 +569,7 @@ Jason,99,99
 Jarod,99,99
 Jean,27,12
 Jean(de Capistran),23,10
+Jean-Baptiste,7,4
 Jean-Baptiste,24,6
 Jean de Dieu,8,3
 Jeanne,8,5
@@ -852,6 +857,7 @@ Noemie,21,8
 Nolwenn,6,7
 Nora,25,6
 Norbert,6,6
+Notre-Dame de Lourdes,11,2
 Oceane,26,7
 Octave,20,11
 Octavie,20,11
@@ -874,7 +880,7 @@ Oswald,5,8
 Otmar,16,11
 Pablo,29,6
 Paco,24,1
-PacOme,9,5
+Pacome,9,5
 Pamela,16,2
 Pamphile,16,2
 Paola,26,1
@@ -1063,6 +1069,7 @@ Teresa,15,10
 Tessa,17,12
 Thaddee,28,10
 Thecle,24,9
+Theodora,11,2
 Theodore,9,11
 Theophane,2,2
 Theophile,20,12
@@ -1073,7 +1080,7 @@ Thibaud,8,7
 Thiebaud,8,7
 Thierry,1,7
 Thomas,3,7
-Thomas (d'Aquin),28,1
+Thomas(d'Aquin),28,1
 Tino,14,2
 Tino,21,5
 Timothee,99,99

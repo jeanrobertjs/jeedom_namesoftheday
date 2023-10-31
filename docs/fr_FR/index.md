@@ -21,9 +21,11 @@ Non, les données sont incluses en local.
 
 Le plugin s'actualise une fois par jour à minuit (suivant l'heure de votre système).
 
-## Contributions
+## Contributions / Modification de la base de données des prénoms
 
-Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez pas à soumettre vos Pull Requests sur [GitHub](https://jeanrobertjs.github.io/namesoftheday) ou sur le [forum Jeedom](https://community.jeedom.com/tag/plugin-namesoftheday).
+Gardez en tête que toute modification effectuée directement sur votre installation sera forcément écrasée lors d'une mise à jour ultérieure.
+
+Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez donc pas à soumettre vos demandes via un Pull Request sur le [GitHub du plugin](https://jeanrobertjs.github.io/namesoftheday) ou via une demande sur le [forum Jeedom](https://community.jeedom.com/tag/plugin-namesoftheday).
 
 ## Disclaimer
 
