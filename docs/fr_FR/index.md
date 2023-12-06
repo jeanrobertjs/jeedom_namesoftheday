@@ -21,7 +21,7 @@ Non, les données sont incluses en local.
 
 Le plugin s'actualise une fois par jour à minuit (suivant l'heure de votre système).
 
-## Contributions / Modification de la base de données des prénoms
+## Contributions / Modifications de la base de données des prénoms
 
 Gardez en tête que toute modification effectuée directement sur votre installation sera forcément écrasée lors d'une mise à jour ultérieure.
 
