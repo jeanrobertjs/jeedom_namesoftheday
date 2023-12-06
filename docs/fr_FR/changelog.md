@@ -15,3 +15,7 @@ Première version publiée sur le store
 
 ## 27/10/2022
 Version publique en béta
+
+### Documentation
+
+Voir la page dédiée [ici](https://jeanrobertjs.github.io/namesoftheday/fr_FR/).
