@@ -11,3 +11,6 @@ Pour plus d'information voir la [documentation](https://jeanrobertjs.github.io/n
 ## Divers
 
 - [voir le plugin dans le market Jeedom](https://market.jeedom.com/index.php?v=d&p=market_display&id=4349)
+- Vous aimez ce plugin ? Vous pouvez, si vous le souhaitez, encourager son développeur :
+
+  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/jeanrobertjs)
