@@ -15,6 +15,6 @@ Pour plus d'information voir la [documentation](https://jeanrobertjs.github.io/n
 
   [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/jeanrobertjs)
 
-# Contributions
+## Contributions
 
 Ce plugin est ouvert aux contributions et même encouragé ! Veuillez soumettre vos pull requests pour des améliorations/corrections.
