@@ -6,11 +6,11 @@ Ce plugin pour système domotique Jeedom -[https://jeedom.com](https://jeedom.co
 
 ## Informations connexes
 
-Pour plus d'information voir la [documentation](https://jeanrobertjs.github.io/namesoftheday/fr_FR/) du plugin.
+Pour plus d'information voir la [documentation](https://jeanrobertjs.github.io/namesoftheday/) du plugin.
 
 ## Divers
 
-- [voir le plugin dans le market Jeedom](https://market.jeedom.com/index.php?v=d&p=market_display&id=4349)
+- [Voir le plugin dans le market Jeedom](https://market.jeedom.com/index.php?v=d&p=market_display&id=4349)
 - Vous aimez ce plugin ? Vous pouvez, si vous le souhaitez, encourager son développeur :
 
   [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/jeanrobertjs)
