@@ -6,6 +6,7 @@
 
 ## 21/11/2023
 Montée de la version minimum du core de Jeedom requise pour le plugin maintenu à jour : 4+
+
 Une branche dédiée aux cores jeedom v3 subsiste pour la rétrocompatibilité mais ne bénéficiera pas des mises à jour futures.
 
 ## 31/10/2023
