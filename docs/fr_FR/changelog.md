@@ -5,7 +5,7 @@
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement la mise à jour de documentation, de traduction ou de texte.
 
 ## 21/11/2023
-Support unique pour les systèmes Jeedom en core v4
+Montée de la version minimum du core de Jeedom requise pour le plugin : 4+
 
 ## 31/10/2023
 Mise à jour locale de la base de données des prénoms
