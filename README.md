@@ -6,7 +6,7 @@ Ce plugin pour système domotique Jeedom -[https://jeedom.com](https://jeedom.co
 
 ## Informations connexes
 
-Pour plus d'information voir la [documentation](https://jeanrobertjs.github.io/namesoftheday/) du plugin.
+Pour plus d'information voir la [documentation](https://jeanrobertjs.github.io/jeedom_namesoftheday/) du plugin.
 
 ## Divers
 
