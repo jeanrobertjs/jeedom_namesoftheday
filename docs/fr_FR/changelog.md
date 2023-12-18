@@ -21,4 +21,4 @@ Version publique en béta
 
 ## Documentation
 
-Voir la page dédiée [ici](https://jeanrobertjs.github.io/namesoftheday/fr_FR/).
+Voir la page dédiée [ici](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/).
