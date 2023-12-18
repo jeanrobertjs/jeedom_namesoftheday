@@ -4,6 +4,9 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement la mise à jour de documentation, de traduction ou de texte.
 
+#### 18/12/2023
+Changement de nom du dépôt Github
+
 ## 21/11/2023
 Montée de la version minimum du core de Jeedom requise pour le plugin maintenu à jour : 4+
 
