@@ -12,7 +12,7 @@
 	"hasDependency" : false,
 	"hasOwnDeamon" : false,
 	"maxDependancyInstallTime" : 0,
-	"changelog" : "https://jeanrobertjs.github.io/namesoftheday/#language#/changelog",
+	"changelog" : "https://jeanrobertjs.github.io/jeedom_namesoftheday/#language#/changelog",
 	"documentation" : "https://jeanrobertjs.github.io/jeedom_namesoftheday/#language#/",
 	"link" : {
 		"forum":"https://community.jeedom.com/tag/plugin-namesoftheday"
