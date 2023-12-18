@@ -6,6 +6,7 @@
 
 ## 21/11/2023
 FIN DU SUPPORT DES VERSION SUR CORE JEEDOM 3.x
+
 Il faut au minimum une version de core de Jeedom en 4.x pour bénéficier des dernières mises à jour
 
 ## 31/10/2023
