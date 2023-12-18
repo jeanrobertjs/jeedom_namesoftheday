@@ -34,4 +34,4 @@ Ce plugin vous est fourni sans aucune garantie. Bien que peu probable, s'il vena
 
 ## Changelog
 
-Voir la page dédiée [ici](https://jeanrobertjs.github.io/namesoftheday/fr_FR/changelog).
+Voir la page dédiée [ici](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/changelog).
