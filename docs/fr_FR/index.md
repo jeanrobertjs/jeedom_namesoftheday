@@ -11,27 +11,27 @@ Le tout en local, sans connexion à internet.
 
 Le plugin ne comporte pas de configuration générale.
 
-## Paramêtrage
+## Paramètrage
 
-Le paramètre "Format des prénoms" permet de définir si voulez avoir des diacritiques dans les prémoms ou pas.
+Le paramètre "Format des prénoms" permet de définir si voulez avoir des diacritiques dans les prémoms générés par un équipement ou pas.
 
-- Le format avec diacritriques peut être utile pour de l'affichage, dans les widgets visibles ou dans des intéractions vocales (Alexa, Google Assistant ou autre).
-- Le format sans diacritriques peut être plus simple à utiliser dans des conditions, scénarios, scripts ou dans du code.
+- Le format _avec diacritriques_ peut être utile pour de l'affichage, dans les widgets visibles ou dans les intéractions vocales (Alexa, Google Assistant ou autre).
+- Le format _sans diacritriques_ peut être plus simple à utiliser dans des conditions, scénarios, scripts ou dans du code.
 
 
 ## FAQ
 
-> Est-ce que le plugin s'appuie sur des API externes ?
+**Est-ce que le plugin s'appuie sur des API externes ?**
 
 Non, les données sont incluses en local.
 
-> Comment fonctionne le rafraichissement ?
+**Comment fonctionne le rafraichissement ?**
 
 Le plugin s'actualise une fois par jour à minuit (suivant l'heure de votre système).
 
-> Qu'est-ce qu'un diacritique ?
+**Qu'est-ce qu'un diacritique ?**
 
-Les diacritiques représentent les marques qui peuvent être ajoutées sur certaines lettres comme les accents, tilde ou cédille par exemple.
+Les diacritiques représentent les marques qui peuvent être ajoutées sur certaines lettres comme les accents, tilde, tréma ou cédille par exemple.
 
 ## Contributions / Modifications de la base de données des prénoms
 
