@@ -7,7 +7,7 @@
 	},
 	"licence" : "AGPL",
 	"author" : "JR Marmelade",
-	"require" : "3.3.39",
+	"require" : "4.0",
 	"category" : "organization",
 	"hasDependency" : false,
 	"hasOwnDeamon" : false,
