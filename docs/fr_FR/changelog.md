@@ -13,7 +13,9 @@ Tous les diacritiques seront pris en charge dans les équipemeents avec le param
 
 Par conséquent, faites attention lors des futures mises à jour du plugin, si vous n'utilisez qu'un équipement un format de prénoms _avec diacritriques_ dans vos conditions de scénarios/scripts.
 
-Plus d'information sur la notion de "diacritique" dans la [faq de la documentation](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/).
+<!--Plus d'information sur la notion de "diacritique" dans la [faq de la documentation](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/).-->
+Plus d'information sur la notion de "diacritique" dans la [faq de la documentation](https://github.com/jeanrobertjs/jeedom_namesoftheday/blob/beta/docs/fr_FR/index.md).
+
 
 **Contournement possible :**
 Créer 2 équipements : l'un avec diacritriques et l'autre sans.
@@ -43,4 +45,5 @@ Version publique en béta.
 
 ## Documentation
 
-Voir la page dédiée [ici](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/).
+<!--Voir la page dédiée [ici](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/).-->
+Voir la page dédiée [ici](https://github.com/jeanrobertjs/jeedom_namesoftheday/blob/beta/docs/fr_FR/index.md).
