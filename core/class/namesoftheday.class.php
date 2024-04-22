@@ -209,13 +209,13 @@ class namesoftheday extends eqLogic {
 
   /*     * **********************Getteur Setteur*************************** */
 
-  public function getNames($month = null, $day = null) {
+  public function getNames($countryfile = 'namesoftheday_fr', $month = null, $day = null) {
     $names = ""; $first = TRUE;
     if ($month == null || $day == null) {
       $month = date('n');
       $day = date('j');
     }
-    $devAddr = dirname(__FILE__) . '/../../resources/data/namesoftheday_fr.csv';
+    $devAddr = dirname(__FILE__) . '/../../resources/data/'.$countryfile.'.csv';
     $devResult = fopen($devAddr, "r");
     while ( ($data = fgetcsv($devResult,1000,",") ) !== FALSE ) {
       //$num = count($data);
@@ -230,16 +230,16 @@ class namesoftheday extends eqLogic {
     return $names;
   }
 
-  public function getNamesOfYesterday() {
+  public function getNamesOfYesterday($countryfile = 'namesoftheday_fr') {
     $month = date('n', time() - 60 * 60 * 24);
     $day = date('j', time() - 60 * 60 * 24);
-    return self::getNames($month,$day);
+    return self::getNames($countryfile,$month,$day);
   }
 
-  public function getNamesOfTomorrow() {
+  public function getNamesOfTomorrow($countryfile = 'namesoftheday_fr') {
     $month = date('n', time() + 60 * 60 * 24);
     $day = date('j', time() + 60 * 60 * 24);
-    return self::getNames($month,$day);
+    return self::getNames($countryfile,$month,$day);
   }
 }
 
@@ -265,15 +265,16 @@ class namesofthedayCmd extends cmd {
   // Exécution d'une commande
   public function execute($_options = array()) {
     $eqlogic = $this->getEqLogic(); //récupère l'éqlogic de la commande $this
+    $countryfile = $eqlogic->getConfiguration('countryfile', 'namesoftheday_fr'); // récupère la config de la langue avec "namesoftheday_fr" en fichier par défaut si rien n'est renseigné.
     switch ($this->getLogicalId()) { //vérifie le logicalid de la commande
       case 'refresh': // LogicalId de la commande rafraîchir que l’on a créé dans la méthode Postsave de la classe namesoftheday.
-        $info1 = $eqlogic->getNames(); //On lance la fonction getNames() pour récupérer une namesoftheday et on la stocke dans la variable $info
+        $info1 = $eqlogic->getNames($countryfile); //On lance la fonction getNames() pour récupérer un namesoftheday et on la stocke dans la variable $info
         $eqlogic->checkAndUpdateCmd('namesoftoday', $info1); //on met à jour la commande avec le LogicalId "namesoftoday"  de l'eqlogic
         
-        $info2 = $eqlogic->getNamesOfTomorrow(); //On lance la fonction getNamesOfTomorrow() pour récupérer une namesoftheday et on la stocke dans la variable $info
+        $info2 = $eqlogic->getNamesOfTomorrow($countryfile); //On lance la fonction getNamesOfTomorrow() pour récupérer un namesoftheday et on la stocke dans la variable $info
         $eqlogic->checkAndUpdateCmd('namesoftomorrow', $info2); //on met à jour la commande avec le LogicalId "namesoftomorrow"  de l'eqlogic
         
-        $info3 = $eqlogic->getNamesOfYesterday(); //On lance la fonction getNamesOfYesterday() pour récupérer une namesoftheday et on la stocke dans la variable $info
+        $info3 = $eqlogic->getNamesOfYesterday($countryfile); //On lance la fonction getNamesOfYesterday() pour récupérer un namesoftheday et on la stocke dans la variable $info
         $eqlogic->checkAndUpdateCmd('namesofyesterday', $info3); //on met à jour la commande avec le LogicalId "namesofyesterday"  de l'eqlogic
         
         break;

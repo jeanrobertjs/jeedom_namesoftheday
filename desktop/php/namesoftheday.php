@@ -92,7 +92,7 @@ $eqLogics = eqLogic::byType($plugin->getId());
 								</div>
 							</div>
 							<div class="form-group">
-								<label class="col-sm-4 control-label" >{{Objet parent}}</label>
+								<label class="col-sm-4 control-label">{{Objet parent}}</label>
 								<div class="col-sm-6">
 									<select id="sel_object" class="eqLogicAttr form-control" data-l1key="object_id">
 										<option value="">{{Aucun}}</option>
@@ -126,8 +126,30 @@ $eqLogics = eqLogic::byType($plugin->getId());
 								</div>
 							</div>
 
-<!--							<legend><i class="fas fa-cogs"></i> {{Paramètres spécifiques}}</legend>
-							<div class="form-group">
+							<legend><i class="fas fa-cogs"></i>{{Paramètres spécifiques}}</legend>
+                            
+                            <div class="form-group">
+                              <label class="col-sm-4 control-label">Format des prénoms</label>
+                              <div class="col-sm-5">
+                                <select class="form-control eqLogicAttr" data-l1key="configuration" data-l2key="countryfile">
+                                  <option value="namesoftheday_fr">Prénoms sans diacritriques</option>
+                                  <option value="namesoftheday_fr_withdiacriticals">Prénoms avec diacritriques</option>
+                                </select>
+                              </div>
+                            </div>
+                            <div class="form-group">
+								<div class="col-sm-11">
+									<br />
+									<p>* les diacritiques représentent les marques qui peuvent être ajoutées sur certaines lettres comme les accents, tilde ou cédille par exemple.</p>
+									<p>
+										Note :
+										<br />- Le format <span style="font-style:italic;text-decoration-line:underline;"><span style="font-weight:bold;">avec</span> diacritriques</span> peut être utile pour les widgets ou dans des intéractions vocales.
+										<br />- Le format <span style="font-style:italic;text-decoration-line:underline;"><span style="font-weight:bold;">sans</span> diacritriques</span> peut être plus simple à utiliser dans des conditions ou scripts.
+									</p>
+								</div>
+                            </div>
+
+<!--							<div class="form-group">
 								<label class="col-sm-4 control-label">{{Nom du paramètre n°1}}
 									<sup><i class="fas fa-question-circle tooltips" title="{{Renseignez le paramètre n°1 de l'équipement}}"></i></sup>
 								</label>
