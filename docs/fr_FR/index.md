@@ -11,6 +11,14 @@ Le tout en local, sans connexion à internet.
 
 Le plugin ne comporte pas de configuration générale.
 
+## Paramêtrage
+
+Le paramètre "Format des prénoms" permet de définir si voulez avoir des diacritiques dans les prémoms ou pas.
+
+- Le format avec diacritriques peut être utile pour de l'affichage, dans les widgets visibles ou dans des intéractions vocales (Alexa, Google Assistant ou autre).
+- Le format sans diacritriques peut être plus simple à utiliser dans des conditions, scénarios, scripts ou dans du code.
+
+
 ## FAQ
 
 > Est-ce que le plugin s'appuie sur des API externes ?
@@ -21,11 +29,17 @@ Non, les données sont incluses en local.
 
 Le plugin s'actualise une fois par jour à minuit (suivant l'heure de votre système).
 
+> Qu'est-ce qu'un diacritique ?
+
+Les diacritiques représentent les marques qui peuvent être ajoutées sur certaines lettres comme les accents, tilde ou cédille par exemple.
+
 ## Contributions / Modifications de la base de données des prénoms
 
 Gardez en tête que toute modification effectuée directement sur votre installation sera forcément écrasée lors d'une mise à jour ultérieure.
 
-Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez donc pas à soumettre vos demandes via un Pull Request sur le [GitHub du plugin](https://jeanrobertjs.github.io/namesoftheday) ou via une demande sur le [forum Jeedom](https://community.jeedom.com/tag/plugin-namesoftheday).
+Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez donc pas à soumettre vos demandes via une demande sur le [forum Jeedom](https://community.jeedom.com/tag/plugin-namesoftheday), et si vous le pouvez faites les directement via un Pull Request sur le [GitHub du plugin](https://jeanrobertjs.github.io/namesoftheday).
+
+  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/jeanrobertjs)
 
 ## Disclaimer
 
