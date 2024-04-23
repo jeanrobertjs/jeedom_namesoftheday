@@ -4,7 +4,7 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement la mise à jour de documentation, de traduction ou de texte.
 
-## 24/04/2024 (beta)
+## 23/04/2024 (beta)
 
 Prise en charge des diacritiques (accent, tréma, cédille, tilde...) via l'ajout d'un paramètre dans les équipements créés suite à la demande suivante sur le [Forum Jeedom > Pas d’accents plugin “prénoms du jour”](https://community.jeedom.com/t/pas-daccents-plugin-prenoms-du-jour/120026).
 
@@ -29,7 +29,7 @@ Changement de nom du dépôt Github
 
 Montée de la version minimum du core de Jeedom requise pour le plugin maintenu à jour : Core v4.0 minimum
 
-Une branche dédiée aux cores jeedom v3 subsiste pour la rétrocompatibilité mais ne bénéficiera pas des mises à jour futures.
+Une branche dédiée aux cores jeedom v3 subsiste pour la rétrocompatibilité mais ne bénéficiera pas des mises à jour de fonctionnalités futures.
 
 ## 31/10/2023
 
