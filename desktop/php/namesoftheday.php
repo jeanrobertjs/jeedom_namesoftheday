@@ -140,7 +140,7 @@ $eqLogics = eqLogic::byType($plugin->getId());
                             <div class="form-group">
 								<div class="col-sm-11">
 									<br />
-									<p>* les diacritiques représentent les marques qui peuvent être ajoutées sur certaines lettres comme les accents, tilde ou cédille par exemple.</p>
+									<p>* les diacritiques représentent les marques qui peuvent être ajoutées sur certaines lettres comme les accents (aïgue, grave, circonflexe), le tilde (~), le tréma (¨) ou la cédille (ç) par exemple.</p>
 									<p>
 										Note :
 										<br />- Le format <span style="font-style:italic;text-decoration-line:underline;"><span style="font-weight:bold;">avec</span> diacritriques</span> peut être utile pour les widgets ou dans des intéractions vocales.
