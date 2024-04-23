@@ -18,7 +18,6 @@ Le paramètre "Format des prénoms" permet de définir si voulez avoir des diacr
 - Le format _avec diacritriques_ peut être utile pour de l'affichage, dans les widgets visibles ou dans les intéractions vocales (Alexa, Google Assistant ou autre).
 - Le format _sans diacritriques_ peut être plus simple à utiliser dans des conditions, scénarios, scripts ou dans du code.
 
-
 ## FAQ
 
 **Est-ce que le plugin s'appuie sur des API externes ?**
@@ -39,8 +38,6 @@ Gardez en tête que toute modification effectuée directement sur votre installa
 
 Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez donc pas à soumettre vos demandes via une demande sur le [forum Jeedom](https://community.jeedom.com/tag/plugin-namesoftheday), et si vous le pouvez faites les directement via un Pull Request sur le [GitHub du plugin](https://jeanrobertjs.github.io/namesoftheday).
 
-  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/jeanrobertjs)
-
 ## Disclaimer
 
 Ce plugin ne prétend pas être exempt de bugs.
@@ -50,3 +47,5 @@ Ce plugin vous est fourni sans aucune garantie. Bien que peu probable, s'il vena
 
 <!--Voir la page dédiée [ici](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/changelog).-->
 Voir la page dédiée [ici](https://github.com/jeanrobertjs/jeedom_namesoftheday/blob/beta/docs/fr_FR/changelog.md).
+
+> Vous aimez ce plugin ? Vous pouvez, si vous le souhaitez, encourager son développeur : [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/jeanrobertjs)
