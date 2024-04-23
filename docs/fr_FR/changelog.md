@@ -4,25 +4,23 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement la mise à jour de documentation, de traduction ou de texte.
 
-## 23/04/2024 (beta)
+## 23/04/2024 (version beta - publiée)
 
-- Mise à jour locale de la base de données des prénoms
-- Prise en charge des diacritiques (accent, tréma, cédille, tilde...) via l'ajout d'un paramètre dans les équipements créés suite à la demande suivante sur le [Forum Jeedom > Pas d’accents plugin “prénoms du jour”](https://community.jeedom.com/t/pas-daccents-plugin-prenoms-du-jour/120026)
+- Mise à jour locale des bases de données des prénoms
+- Prise en charge des diacritiques via l'ajout d'un paramètre dans les équipements créés suite à la demande suivante sur le [Forum Jeedom > Pas d’accents plugin “prénoms du jour”](https://community.jeedom.com/t/pas-daccents-plugin-prenoms-du-jour/120026)
+
+<!--Plus d'information sur la notion de "diacritique" dans la [faq de la documentation](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/#faq).-->
+Plus d'information sur la notion de "diacritique" dans la [faq de la documentation](https://github.com/jeanrobertjs/jeedom_namesoftheday/blob/beta/docs/fr_FR/index.md#faq).
 
 **Remarque importante :**
 Tous les diacritiques seront pris en charge dans les équipemeents avec le paramètre Format de prénoms "avec diacritriques".
 
-Par conséquent, faites attention lors des futures mises à jour du plugin, si vous n'utilisez qu'un équipement un format de prénoms _avec diacritriques_ dans vos conditions de scénarios/scripts.
-
-<!--Plus d'information sur la notion de "diacritique" dans la [faq de la documentation](https://jeanrobertjs.github.io/jeedom_namesoftheday/fr_FR/).-->
-Plus d'information sur la notion de "diacritique" dans la [faq de la documentation](https://github.com/jeanrobertjs/jeedom_namesoftheday/blob/beta/docs/fr_FR/index.md).
-
+Par conséquent, faites attention lors des futures mises à jour du plugin, si vous n'utilisez qu'un seul équipement avec un format de prénoms _avec diacritriques_ dans vos conditions de scénarios/scripts.
 
 **Contournement possible :**
-Créer 2 équipements : l'un avec diacritriques et l'autre sans.
-Le premier _avec diacritiques_ pourrait être utilisé pour l'affichage ou dans les intéractions vocales, et le second _sans diacritiques_ dans vos conditions de scénarios/scripts.
+Créer 2 équipements : l'un avec diacritriques et l'autre sans. Celui avec _avec diacritiques_ pourrait être utilisé pour l'affichage ou dans les intéractions vocales, et l'autre _sans diacritiques_ dans vos conditions de scénarios/scripts.
 
-## 18/12/2023
+## 18/12/2023 (version stable sur le market Jeedom)
 
 - Changement de nom du dépôt Github
 

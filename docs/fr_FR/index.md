@@ -30,7 +30,7 @@ Le plugin s'actualise une fois par jour à minuit (suivant l'heure de votre syst
 
 **Qu'est-ce qu'un diacritique ?**
 
-Les diacritiques représentent les marques qui peuvent être ajoutées sur certaines lettres comme les accents, tilde, tréma ou cédille par exemple.
+Les diacritiques représentent les marques qui peuvent être ajoutées sur certaines lettres comme les accents (aïgue, grave, circonflexe), le tilde (~), le tréma (¨) ou la cédille (ç) par exemple.
 
 ## Contributions / Modifications de la base de données des prénoms
 
