@@ -11,7 +11,7 @@ Le tout en local, sans connexion à internet.
 
 Le plugin ne comporte pas de configuration générale.
 
-## Paramètrage
+## Paramètrage des équipements
 
 Le paramètre "Format des prénoms" permet de définir si voulez avoir des diacritiques dans les prémoms générés par un équipement ou pas.
 
@@ -36,7 +36,7 @@ Les diacritiques représentent les marques qui peuvent être ajoutées sur certa
 
 Gardez en tête que toute modification effectuée directement sur votre installation sera forcément écrasée lors d'une mise à jour ultérieure.
 
-Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez donc pas à soumettre vos demandes via une demande sur le [forum Jeedom](https://community.jeedom.com/tag/plugin-namesoftheday), et si vous le pouvez faites les directement via un Pull Request sur le [GitHub du plugin](https://jeanrobertjs.github.io/namesoftheday).
+Ce plugin gratuit est ouvert à contributions (améliorations et/ou corrections). N'hésitez donc pas à soumettre vos demandes via une demande sur le [forum Jeedom](https://community.jeedom.com/tag/plugin-namesoftheday), et si vous le pouvez faites les directement via un Pull Request sur le [GitHub du plugin](https://github.com/jeanrobertjs/jeedom_namesoftheday/).
 
 > Vous aimez ce plugin ? Vous pouvez, si vous le souhaitez, encourager son développeur : [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/jeanrobertjs)
 
