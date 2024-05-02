@@ -55,7 +55,7 @@ $eqLogics = eqLogic::byType($plugin->getId());
 		}
 		?>
 	</div> <!-- /.eqLogicThumbnailDisplay -->
-
+	
 	<!-- Page de présentation de l'équipement -->
 	<div class="col-xs-12 eqLogic" style="display: none;">
 		<!-- barre de gestion de l'équipement -->
@@ -125,17 +125,17 @@ $eqLogics = eqLogic::byType($plugin->getId());
 									<label class="checkbox-inline"><input type="checkbox" class="eqLogicAttr" data-l1key="isVisible" checked>{{Visible}}</label>
 								</div>
 							</div>
-
+							
 							<legend><i class="fas fa-cogs"></i>{{Paramètres spécifiques}}</legend>
                             
                             <div class="form-group">
-                              <label class="col-sm-4 control-label">Format des prénoms</label>
-                              <div class="col-sm-5">
-                                <select class="form-control eqLogicAttr" data-l1key="configuration" data-l2key="countryfile">
-                                  <option value="namesoftheday_fr">Prénoms sans diacritriques</option>
-                                  <option value="namesoftheday_fr_withdiacriticals">Prénoms avec diacritriques</option>
-                                </select>
-                              </div>
+								<label class="col-sm-4 control-label">Format des prénoms</label>
+								<div class="col-sm-5">
+									<select class="form-control eqLogicAttr" data-l1key="configuration" data-l2key="countryfile">
+										<option value="namesoftheday_fr">Prénoms sans diacritriques</option>
+										<option value="namesoftheday_fr_withdiacriticals">Prénoms avec diacritriques</option>
+									</select>
+								</div>
                             </div>
                             <div class="form-group">
 								<div class="col-sm-11">
@@ -198,7 +198,7 @@ $eqLogics = eqLogic::byType($plugin->getId());
 					</fieldset>
 				</form>
 			</div><!-- /.tabpanel #eqlogictab-->
-
+			
 			<!-- Onglet des commandes de l'équipement -->
 			<div role="tabpanel" class="tab-pane" id="commandtab">
 				<a class="btn btn-default btn-sm pull-right cmdAction" data-action="add" style="margin-top:5px;"><i class="fas fa-plus-circle"></i> {{Ajouter une commande}}</a>
@@ -220,7 +220,7 @@ $eqLogics = eqLogic::byType($plugin->getId());
 					</table>
 				</div>
 			</div><!-- /.tabpanel #commandtab-->
-
+			
 		</div><!-- /.tab-content -->
 	</div><!-- /.eqLogic -->
 </div><!-- /.row row-overflow -->
